@@ -1,0 +1,5 @@
+.venv/
+build/
+__pycache__/
+.DS_Store
+channels_local.py
